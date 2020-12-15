@@ -1,1 +1,1 @@
-# HackerHank
+# HackerHank Challenges
